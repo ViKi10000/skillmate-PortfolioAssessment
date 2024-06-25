@@ -1,3 +1,10 @@
 ## Installation Guide
 
-### Requirements
+### Prerequisites
+
+   Before running the application,make sure you have the following installed;
+    
+
+      
+    
+
