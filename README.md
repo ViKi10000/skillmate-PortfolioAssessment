@@ -1,4 +1,4 @@
-![IMG_20240625_120620](https://github.com/ViKi10000/skillmate-PortfolioAssessment/assets/128831961/0a6ba946-395c-4ccb-95ad-eb709b6841f5)
+![IMG_20240625_120620](https://github.com/ViKi10000/skillmate-PortfolioAssessment/assets/128831961/0a6ba946-395c-4ccb-95ad-eb709b6841f5 | width=100)
 ![IMG_20240625_120645](https://github.com/ViKi10000/skillmate-PortfolioAssessment/assets/128831961/a2490e4e-8649-4d38-9ae0-b3b086fc795f)
 ![IMG_20240625_120708](https://github.com/ViKi10000/skillmate-PortfolioAssessment/assets/128831961/7e625f80-bfd7-4a53-b310-bd174d936338)
 ![IMG_20240625_120918](https://github.com/ViKi10000/skillmate-PortfolioAssessment/assets/128831961/91198f70-3162-4abf-9e19-a4a7886a03fd)
