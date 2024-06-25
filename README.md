@@ -11,6 +11,8 @@
 
    1.Clone this repository
    ```
+git clone https://github.com/ViKi10000/skillmate-PortfolioAssessment.git
+  ```
     
 
       
