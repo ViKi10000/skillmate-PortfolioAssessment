@@ -1,1 +1,3 @@
-## Steps to rebuild
+## Installation Guide
+
+### Requirements
