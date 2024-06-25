@@ -13,8 +13,14 @@
    ```
 git clone https://github.com/ViKi10000/skillmate-PortfolioAssessment.git
   ```
-    
-
-      
+   2.Go to the project directory and install dependencies for both the client and server
+   ```
+cd client
+npm install
+```
+```
+cd server
+npm install
+```
     
 
