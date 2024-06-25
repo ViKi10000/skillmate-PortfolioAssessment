@@ -22,5 +22,14 @@ npm install
 cd server
 npm install
 ```
-    
+  3.Start the server
+  ```
+cd server
+node server.js
+```
+  4.start the client
+  ```
+cd client
+npm start
+```
 
