@@ -33,3 +33,6 @@ cd client
 npm start
 ```
 
+## Screenshots
+
+![Screenshot 2024-06-24 195334](https://github.com/ViKi10000/skillmate-PortfolioAssessment/assets/128831961/95614079-15e5-419d-a42c-beeb71bf557d)
